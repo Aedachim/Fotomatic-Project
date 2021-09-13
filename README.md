@@ -1,2 +1,2 @@
-# Projects
+# Fotomatic
  First Project
